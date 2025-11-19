@@ -17,12 +17,13 @@ ul.myUL {
 
 div.center {
   width: 500px;
-  height: 700px;
+  height: 80%;
   background-image: url('images/background.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin: 0 auto;
+  border-radius: 2%;
 }
 
 .center {
@@ -38,7 +39,11 @@ p#summary {
 }
 
 .background-color {
-  background-color: rgb(0, 0, 0, 0.6);
+  background-color: rgba(134, 134, 134, 0.6);
+}
+
+.iframe-format {
+  border-color: brown;
 }
 
 
