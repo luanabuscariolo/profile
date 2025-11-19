@@ -18,7 +18,7 @@ ul.myUL {
 div.center {
   width: 500px;
   height: 80%;
-  background-image: url('images/background.webp');
+  background-image: url('images/background4.avif');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,4 +46,16 @@ p#summary {
   border-color: brown;
 }
 
+.btn {
+    width: 120px;
+    height: 30px;
+    border-radius: 50px;
+    background: #c00647;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
+}
 
+.text {
+  font-size: 24px;
+}
